@@ -16,3 +16,5 @@ Hello Guys,
 ## Filters
 
 1. Filter_10k-11k-ilk (6.12.2019)
+
+![](images/gif1_filter.gif)
