@@ -11,3 +11,8 @@ Hello Guys,
 
 ### Pole-Zero plot
 ![alt text](https://github.com/Berken-demirel/Gimme-Fast/blob/master/Image/pole_zero_of_exa.png)
+
+
+## Filters
+
+1. Filter_10k-11k-ilk (6.12.2019)
