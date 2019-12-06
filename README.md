@@ -17,4 +17,4 @@ Hello Guys,
 
 1. Filter_10k-11k-ilk (6.12.2019)
 
-![](image/gif1_filter.gif)
+![](https://github.com/Berken-demirel/Gimme-Fast/blob/master/Image/gif1_filter.gif)
